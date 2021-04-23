@@ -1,0 +1,9 @@
+D:\NEXT\G_API_Test\bin\Debug\G_API_Test.exe.config
+D:\NEXT\G_API_Test\bin\Debug\G_API_Test.exe
+D:\NEXT\G_API_Test\bin\Debug\G_API_Test.pdb
+D:\NEXT\G_API_Test\obj\Debug\G_API_Test.csprojAssemblyReference.cache
+D:\NEXT\G_API_Test\obj\Debug\G_API_Test.Form1.resources
+D:\NEXT\G_API_Test\obj\Debug\G_API_Test.Properties.Resources.resources
+D:\NEXT\G_API_Test\obj\Debug\G_API_Test.csproj.GenerateResource.cache
+D:\NEXT\G_API_Test\obj\Debug\G_API_Test.exe
+D:\NEXT\G_API_Test\obj\Debug\G_API_Test.pdb

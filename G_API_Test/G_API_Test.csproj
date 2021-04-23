@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="GApiWrapper_internal">
+      <HintPath>C:\Users\YUD1WHU\Desktop\Source\ATS\ATS\ATS_Solution_v5.0\AutomationTestStation\Libs\GApiWrapper_internal.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
